@@ -9,7 +9,7 @@ Users can view all employees, add new ones, update existing records, or delete t
 
 ---
 <img width="1280" height="720" alt="Employee Data Management (1)" src="https://github.com/user-attachments/assets/7ab164c3-c7be-4c45-a2f3-91873b6d416c" />
----
+
 ## 🚀 Features
 - ✅ **View Employees:** Displays all employee data fetched from DynamoDB via AWS API Gateway.  
 - ➕ **Add Employee:** Redirects to a form to add new employee details.  
