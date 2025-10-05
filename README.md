@@ -119,9 +119,3 @@ Use browser console (F12 → Console tab) to verify API responses and logs.
 📎 [GitHub Profile](https://github.com/Srinivas-katreddi)
 
 ---
-
-```
-
-Would you like me to make it more **GitHub-optimized** (with shields badges, tech stack icons, and clickable demo placeholders)?  
-That version looks more professional and recruiter-friendly.
-```
